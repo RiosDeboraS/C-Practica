@@ -12,3 +12,4 @@ C:\Users\riosd\OneDrive\Escritorio\cSharp\obj\Debug\net8.0\refint\cSharp.dll
 C:\Users\riosd\OneDrive\Escritorio\cSharp\obj\Debug\net8.0\cSharp.pdb
 C:\Users\riosd\OneDrive\Escritorio\cSharp\obj\Debug\net8.0\cSharp.genruntimeconfig.cache
 C:\Users\riosd\OneDrive\Escritorio\cSharp\obj\Debug\net8.0\ref\cSharp.dll
+C:\Users\riosd\OneDrive\Escritorio\cSharp\obj\Debug\net8.0\cSharp.sourcelink.json
